@@ -18,10 +18,6 @@ const MenuItems = [
     path: "/progress",
     title: "Work in progress",
   },
-  {
-    path: "/contact",
-    title: "Contact",
-  },
 ]
 
 const ListLink = props => (
