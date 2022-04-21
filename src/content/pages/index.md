@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: VirginiaTech Latinx and Hispanic Caucus
+title: Virginia Tech Latinx and Hispanic Caucus
 tagline: Graphic Designer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
