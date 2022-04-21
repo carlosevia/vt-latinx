@@ -39,9 +39,6 @@ export const pageQuery = graphql`
             gatsbyImageData(layout: CONSTRAINED, width: 585, height: 439)
           }
         }
-        cta {
-          ctaText
-          ctaLink
         }
       }
     }
