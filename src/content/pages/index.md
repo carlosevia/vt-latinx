@@ -2,11 +2,16 @@
 template: index-page
 slug: /
 title: Virginia Tech Latinx and Hispanic Caucus
-tagline: Graphic Designer
+tagline: Slogan coming soon
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Welcome to the Virginia Tech Hispanic and Latinx Caucus! We are working on revitalizing our organization and we need your support. Here are the the things that we are working on:
+
+- New inclusive organizational name that embraces more Hispanic and Latinx identities .
+- New mission to meet the current needs of our community.
+- New goals and outcomes that outline a strategic path forward.
+- New leadership model that embraces and promotes community representation.
