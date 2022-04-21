@@ -15,6 +15,10 @@ const MenuItems = [
     title: "About",
   },
   {
+    path: "/progress",
+    title: "Work in progress",
+  },
+  {
     path: "/contact",
     title: "Contact",
   },
