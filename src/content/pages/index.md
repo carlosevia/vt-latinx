@@ -5,8 +5,8 @@ title: Virginia Tech Latinx and Hispanic Caucus
 tagline: Slogan coming soon
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Meet the advisory team
+  ctaLink: /team
 ---
 
 Welcome to the Virginia Tech Hispanic and Latinx Caucus! We are working on revitalizing our organization and we need your support. Here are the the things that we are working on:
