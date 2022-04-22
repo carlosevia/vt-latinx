@@ -115,6 +115,19 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Progress"
+        name: "progress"
+        file: "src/content/pages/progress.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"
