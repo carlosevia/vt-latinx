@@ -15,9 +15,9 @@ media_folder: "static/assets"
 public_folder: "/assets"
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    files:
+  - label: "Pages"
+    name: "pages"
+     files:
       - label: "Home"
         name: "home"
         file: "src/content/pages/index.md"
