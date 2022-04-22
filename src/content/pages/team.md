@@ -17,12 +17,30 @@ Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcapti
 </figure>
 
 <figure>
-  <img src="/assets/dannette.jpeg" alt="Dannette Gomez-Beane" width:"100">
-  <figcaption>Dannette Gomez-Beane,\
-Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcaption>
+  <img src="/assets/vero.jpeg" alt="Veronica Montes" width:"100">
+  <figcaption>Veronica Montes, Cultural and Community Centers; Director of El Centro</figcaption>
 </figure>
+
+<figure>
+  <img src="/assets/carlos.jpeg" alt="Carlos Evia" width:"100">
+  <figcaption>Carlos Evia, Associate Dean for Transdisciplinary Initiatives and Chief Technology Officer; CLAHS</figcaption>
+</figure>
+
+
 
 <figure>
   <img src="/assets/vero.jpeg" alt="Veronica Montes" width:"100">
   <figcaption>Veronica Montes, Cultural and Community Centers; Director of El Centro</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/claudia.jpeg" alt="Claudia Brodkin" width:"100">
+  <figcaption>Claudia Brodkin, Undergraduate Chemistry Lab Manager</figcaption>
+</figure>
+
+
+
+<figure>
+  <img src="/assets/gabby.jpg" alt="Gabby McCollum" width:"100">
+  <figcaption>Gabby McCollum, Interim Associate Dean and Director for New Student and Family Programs</figcaption>
 </figure>
