@@ -17,6 +17,7 @@ public_folder: "/assets"
 collections:
   - name: "pages"
     label: "Pages"
+    files:
       - label: "Home"
         name: "home"
         file: "src/content/pages/index.md"
