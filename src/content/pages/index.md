@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Virginia Tech Latinx and Hispanic Caucus
-tagline: Slogan coming soon
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Latinx and Hispanic Caucus
+tagline: Virginia Tech
+featuredImage: /assets/gesta.jpeg
 cta:
   ctaText: Meet the advisory team
   ctaLink: /team
