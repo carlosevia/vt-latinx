@@ -7,5 +7,5 @@ Our collective purpose is to revitalize the Virginia Tech Hispanic and Latinx Ca
 
 <figure>
   <img src="/assets/juan.jpeg" alt="Juan Espinoza" width:"200">
-  <figcaption>Juan Espinoza.</figcaption>
+  <figcaption>Juan Espinoza, Associate Vice Provost for Enrollment and Degree Management and Director of Undergraduate Admissions.</figcaption>
 </figure>
