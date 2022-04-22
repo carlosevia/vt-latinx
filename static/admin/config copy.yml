@@ -19,7 +19,7 @@ collections:
     label: "Posts" # Used in the UI
     label_singular: "Post" # Used in the UI, ie: "New Post"
     description: >
-      We are not using posts. Please use pages instead.
+      Create awesome content here.
     folder: "src/content/posts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "{{title}} — {{year}}/{{month}}/{{day}}"
@@ -102,33 +102,24 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Work in progress"
-        name: "progress"
-        file: "src/content/pages/progress.md"
+      - label: "Contact"
+        name: "contact"
+        file: "src/content/pages/contact.md"
         fields:
           - {
               label: "Template",
               name: "template",
               widget: "hidden",
-              default: "about-page",
+              default: "contact-page",
             }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-     - label: "Team"
-        name: "team"
-        file: "src/content/pages/team.md"
-        fields:
           - {
-              label: "Template",
-              name: "template",
+              label: "Slug",
+              name: "slug",
               widget: "hidden",
-              default: "about-page",
+              default: "/contact",
             }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-
   - name: settings
     label: Settings
     files:
