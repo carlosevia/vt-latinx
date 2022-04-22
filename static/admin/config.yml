@@ -89,10 +89,10 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-      - label: "About"
-        name: "about"
-        file: "src/content/pages/about.md"
-        fields:
+        - label: "About"
+          name: "about"
+          file: "src/content/pages/about.md"
+          fields:
           - {
               label: "Template",
               name: "template",
