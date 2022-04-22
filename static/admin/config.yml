@@ -19,7 +19,7 @@ collections:
     label: "Posts" # Used in the UI
     label_singular: "Post" # Used in the UI, ie: "New Post"
     description: >
-      Create awesome content here.
+      We are not using posts. Use pages instead.
     folder: "src/content/posts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "{{title}} — {{year}}/{{month}}/{{day}}"
@@ -92,6 +92,19 @@ collections:
       - label: "About"
         name: "about"
         file: "src/content/pages/about.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Team"
+        name: "team"
+        file: "src/content/pages/team.md"
         fields:
           - {
               label: "Template",
