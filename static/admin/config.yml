@@ -43,7 +43,20 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-      - label: "Work in progress"
+     - label: "About"
+        name: "about"
+        file: "src/content/pages/about.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+    - label: "Work in progress"
         name: "progress"
         file: "src/content/pages/progress.md"
         fields:
@@ -56,7 +69,7 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Meet the team"
+     - label: "Team"
         name: "team"
         file: "src/content/pages/team.md"
         fields:
@@ -69,19 +82,9 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-           - label: "About"
-        name: "about"
-        file: "src/content/pages/team.md"
-        fields:
-          - {
-              label: "Template",
-              name: "template",
-              widget: "hidden",
-              default: "about-page",
-            }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+
+
+
       
   - name: settings
     label: Settings
