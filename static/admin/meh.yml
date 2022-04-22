@@ -19,7 +19,7 @@ collections:
     label: "Posts" # Used in the UI
     label_singular: "Post" # Used in the UI, ie: "New Post"
     description: >
-      Create awesome content here.
+      We are not using posts. Please use pages instead.
     folder: "src/content/posts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "{{title}} — {{year}}/{{month}}/{{day}}"
@@ -89,9 +89,22 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-      - label: "About"
-        name: "about"
-        file: "src/content/pages/about.md"
+        - label: "About"
+          name: "about"
+          file: "src/content/pages/about.md"
+          fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Work in progress"
+        name: "progress"
+        file: "src/content/pages/progress.md"
         fields:
           - {
               label: "Template",
@@ -102,24 +115,20 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Contact"
-        name: "contact"
-        file: "src/content/pages/contact.md"
+     - label: "Team"
+        name: "team"
+        file: "src/content/pages/team.md"
         fields:
           - {
               label: "Template",
               name: "template",
               widget: "hidden",
-              default: "contact-page",
+              default: "about-page",
             }
-          - {
-              label: "Slug",
-              name: "slug",
-              widget: "hidden",
-              default: "/contact",
-            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
   - name: settings
     label: Settings
     files:
