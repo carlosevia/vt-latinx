@@ -26,13 +26,6 @@ Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcapti
   <figcaption>Carlos Evia, Associate Dean for Transdisciplinary Initiatives and Chief Technology Officer; CLAHS</figcaption>
 </figure>
 
-
-
-<figure>
-  <img src="/assets/vero.jpeg" alt="Veronica Montes" width:"100">
-  <figcaption>Veronica Montes, Cultural and Community Centers; Director of El Centro</figcaption>
-</figure>
-
 <figure>
   <img src="/assets/claudia.jpeg" alt="Claudia Brodkin" width:"100">
   <figcaption>Claudia Brodkin, Undergraduate Chemistry Lab Manager</figcaption>
