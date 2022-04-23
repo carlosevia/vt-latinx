@@ -2,11 +2,11 @@
   "meta": {
     "title": "VT Hispanic and Latinx Caucus",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Collaborating with the University Administration for the recruitment and retention of Hispanic and Latinx faculty, staff, and students",
+    "siteUrl": "https://www.vthispaniclatinx.org",
     "image": "/assets/favicon.ico",
     "iconimage": "/assets/favicon.ico",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@virginia_tech"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
