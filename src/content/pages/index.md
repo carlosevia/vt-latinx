@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Latinx and Hispanic Caucus
+title: VT Hispanic and Latinx Caucus
 tagline: Virginia Tech
 featuredImage: /assets/gesta.jpeg
 cta:
