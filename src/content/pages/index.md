@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: VT Hispanic and Latinx Caucus
 tagline: Virginia Tech
-featuredImage: /assets/gesta.jpeg
+featuredImage: /assets/international-st-fair-2022.jpg
 cta:
   ctaText: Meet the advisory team
   ctaLink: /team
