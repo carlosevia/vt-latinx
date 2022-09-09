@@ -31,9 +31,7 @@ Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcapti
   <figcaption>Claudia Brodkin, Undergraduate Chemistry Lab Manager</figcaption>
 </figure>
 
-
-
 <figure>
   <img src="/assets/gabby.jpg" alt="Gabby McCollum" style="width:200px;">
-  <figcaption>Gabby McCollum, Interim Associate Dean and Director for New Student and Family Programs</figcaption>
+  <figcaption>Gabby McCollum, Associate Dean and Director for New Student and Family Programs</figcaption>
 </figure>
