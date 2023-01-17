@@ -27,13 +27,9 @@ Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcapti
 </figure>
 
 <figure>
-  <img src="/assets/mike.jpg" alt="Michael Walsh" style="width:200px;">
-  <figcaption>Carlos Evia, Associate Dean for Transdisciplinary Initiatives and Chief Technology Officer; CLAHS</figcaption>
+  <img src="static/assets/mike.jpg" alt="Michael Walsh" style="width:200px;">
+  <figcaption>Michael Walsh, University Assistant Treasurer</figcaption>
 </figure>
-
-
-
-
 
 <figure>
   <img src="/assets/claudia.jpeg" alt="Claudia Brodkin" style="width:200px;">
