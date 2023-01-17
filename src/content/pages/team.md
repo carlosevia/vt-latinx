@@ -27,6 +27,15 @@ Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcapti
 </figure>
 
 <figure>
+  <img src="/assets/mike.jpg" alt="Michael Walsh" style="width:200px;">
+  <figcaption>Carlos Evia, Associate Dean for Transdisciplinary Initiatives and Chief Technology Officer; CLAHS</figcaption>
+</figure>
+
+
+
+
+
+<figure>
   <img src="/assets/claudia.jpeg" alt="Claudia Brodkin" style="width:200px;">
   <figcaption>Claudia Brodkin, Undergraduate Chemistry Lab Manager</figcaption>
 </figure>
