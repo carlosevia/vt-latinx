@@ -27,7 +27,7 @@ Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcapti
 </figure>
 
 <figure>
-  <img src="assets/mike.jpg" alt="Michael Walsh" style="width:200px;">
+  <img src="/assets/mike.jpg" alt="Michael Walsh" style="width:200px;">
   <figcaption>Michael Walsh, University Assistant Treasurer</figcaption>
 </figure>
 
