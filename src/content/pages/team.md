@@ -11,12 +11,6 @@ Our collective purpose is to revitalize the Virginia Tech Hispanic and Latinx Ca
 </figure>
 
 <figure>
-  <img src="/assets/dannette.jpeg" alt="Juan Espinoza" style="width:200px;">
-  <figcaption>Dannette Gomez-Beane,
-Assistant Vice Provost for Enrollment Management Strategic Initiatives</figcaption>
-</figure>
-
-<figure>
   <img src="/assets/vero.jpeg" alt="Veronica Montes" style="width:200px;">
   <figcaption>Veronica Montes, Cultural and Community Centers; Director of El Centro</figcaption>
 </figure>
