@@ -29,7 +29,7 @@ Latinx.
 
 # Outcomes 
 
-1\)
+I﻿. 
 
 a)  The Hispanic and Latinx Caucus shall plan, develop, and provide
     programs, events, and/or services that foster a welcoming
@@ -43,7 +43,7 @@ c)  Through our slogan **Somos Hokies**, the
     Hispanic and Latinx Caucus shall support holistic well-being
     endeavors for students, faculty, staff, and their families
 
-2\)
+II. 
 
 a)  The Hispanic and Latinx Caucus shall advocate for advancement and/or
     promotions for students, faculty, and staff.
@@ -56,7 +56,7 @@ b)  Through data collection, the Hispanic and Latinx Caucus shall
 c)  Promote excellence among the Hispanic and Latinx university
     community by celebrating accomplishments, awards, and advancement.
 
-3\)
+III. 
 
 a)  Actively engage and participate in campus-wide efforts, events, and
     programs geared towards the recruitment and retention of Hispanic
@@ -68,7 +68,7 @@ b)  Develop content materials that aim to recruit and retain Hispanic
 c)  Creatively design outreach efforts attract Hispanic and Latinx
     students, faculty, and staff to Virginia Tech.
 
-#Leadership 
+# Leadership 
 
 ## Chair 
 
