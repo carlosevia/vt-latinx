@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: VT Hispanic and Latinx Caucus
+title: VT Hispanic and Latinx Caucus | Somos Hokies
 tagline: Virginia Tech
 featuredImage: /assets/international-st-fair-2022.jpg
 cta:
