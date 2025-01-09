@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-       Virginia Tech Hispanic and Latinx Caucus | Contact: cevia@vt.edu 
+       Virginia Tech Hispanic and Latinx Caucus | Contact: vmontes@vt.edu 
       </p>
     </div>
   </footer>
